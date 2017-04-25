@@ -152,7 +152,7 @@
 }
 
 .navigation > ul > li:after {
-    content: "/";
+    content: "?";
     color: red;
 }
 
