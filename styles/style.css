@@ -152,10 +152,16 @@
     padding: 0;
 }
 
-.navigation > ul > li::after {
+.navigation > ul > li:after {
     content: "/";
     color: #f5817e;
     font-weight: bold;
+}
+
+.navigation > ul > li.last:after {
+   content: "/";
+   color: black;
+   font-weight: bold
 }
 
 .navigation > ul > li > a {
