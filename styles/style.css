@@ -153,16 +153,13 @@
 }
 
 .navigation > ul > li:after {
-    display: inline;
     content: "/";
     color: #f5817e;
     font-weight: bold;
 }
 
 .last:after {
-   content: "/";
-   color: "#f5f6f1;
-   font-weight: bold
+   content: "";
 }
 
 .navigation > ul > li > a {
