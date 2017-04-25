@@ -151,6 +151,10 @@
     margin-left: 20px;
 }
 
+.navigation > ul > li:after {
+    content: "/";
+}
+
 .navigation > ul > li > a {
     display: block;
     color: #463f3a;
