@@ -153,6 +153,7 @@
 }
 
 .navigation > ul > li:after {
+    display: inline;
     content: "/";
     color: #f5817e;
     font-weight: bold;
@@ -160,7 +161,7 @@
 
 .last:after {
    content: "/";
-   color: black;
+   color: "#f5f6f1;
    font-weight: bold
 }
 
