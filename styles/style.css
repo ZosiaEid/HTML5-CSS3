@@ -152,8 +152,10 @@
 }
 
 .navigation > ul > li:after {
-    content: "?";
-    color: red;
+    content: "/";
+    color: #f5817e;
+    font-weight: bold;
+    float: left;
 }
 
 .navigation > ul > li > a {
