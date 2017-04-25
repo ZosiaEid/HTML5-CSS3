@@ -158,10 +158,6 @@
     font-weight: bold;
 }
 
-.last:after {
-   content: "";
-}
-
 .navigation > ul > li > a {
     display: block;
     color: #463f3a;
