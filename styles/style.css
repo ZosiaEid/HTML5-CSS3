@@ -158,7 +158,7 @@
     font-weight: bold;
 }
 
-.navigation > ul > li.last:after {
+.last:after {
    content: "/";
    color: black;
    font-weight: bold
