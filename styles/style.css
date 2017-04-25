@@ -153,6 +153,7 @@
 
 .navigation > ul > li:after {
     content: "/";
+    color: red;
 }
 
 .navigation > ul > li > a {
