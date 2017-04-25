@@ -155,7 +155,6 @@
 .navigation > ul > li::after {
     content: "/";
     color: #f5817e;
-    display: list-item;
     font-weight: bold;
 }
 
