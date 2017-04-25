@@ -149,6 +149,7 @@
 .navigation > ul > li {
     display: inline-block;
     margin-left: 20px;
+    padding: 0;
 }
 
 .navigation > ul > li::after {
