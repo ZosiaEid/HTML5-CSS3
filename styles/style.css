@@ -159,8 +159,7 @@
 }
 
 .last:after {
-   content: "/";
-   color: #f5f6f1;
+   content: "";
 }
 
 .navigation > ul > li > a {
