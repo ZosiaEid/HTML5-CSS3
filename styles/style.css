@@ -154,8 +154,8 @@
 .navigation > ul > li:after {
     content: "/";
     color: #f5817e;
+    display: inline-block;
     font-weight: bold;
-    float: left;
 }
 
 .navigation > ul > li > a {
