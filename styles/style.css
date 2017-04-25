@@ -156,10 +156,10 @@
     content: "/";
     color: #f5817e;
     font-weight: bold;
+    margin-left: 20px;
 }
 
 .navigation > ul > li > a {
-    display: block;
     color: #463f3a;
     text-decoration: none;
     font-family: m500;
